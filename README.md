@@ -29,8 +29,19 @@ Jupyter Notebook 📒
 
 📁 projeto_aula02
  ├── 📜 aula02.py          # Código principal
+
+
+ 
  ├── 📜 requirements.txt   # Dependências do projeto
+
+
+
+ 
  ├── 📜 .gitignore         # Arquivos ignorados pelo Git
+
+
+
+ 
  ├── 📁 .venv              # Ambiente virtual (não incluído no repositório)
 
 
