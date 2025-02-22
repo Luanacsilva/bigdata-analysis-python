@@ -28,6 +28,10 @@ Jupyter Notebook 📒
 
 
 📁 projeto_aula02
+
+
+
+
  ├── 📜 aula02.py          # Código principal
 
 
