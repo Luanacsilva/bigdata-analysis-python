@@ -19,8 +19,19 @@ O objetivo principal é explorar técnicas de processamento de dados em larga es
 
 
 Python 🐍
+
+
+
+
 Pandas 📊
+
+
+
+
+
 Jupyter Notebook 📒
+
+
 
 
 
