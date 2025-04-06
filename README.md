@@ -1,132 +1,67 @@
-Aula 02 - Big Data
+# 📊 Análise de Dados com Python — Projeto Acadêmico
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-📊 Projeto desenvolvido para a aula 02 de Big Data, com foco em análise e manipulação de dados.
 
+Este repositório contém um projeto de análise de dados utilizando Python, desenvolvido como parte da disciplina de Big Data.  
+O foco principal foi explorar, manipular e visualizar dados utilizando bibliotecas populares da stack Python para ciência de dados.
 
+---
 
+## 🧰 Tecnologias e Bibliotecas
 
-📌 Descrição
+- **Python 3**
+- [Pandas](https://pandas.pydata.org/) — manipulação de dados
+- [NumPy](https://numpy.org/) — suporte a arrays e cálculos vetoriais
+- [Matplotlib](https://matplotlib.org/) — gráficos básicos
+- [Seaborn](https://seaborn.pydata.org/) — visualizações estatísticas
+- [Scikit-learn](https://scikit-learn.org/) — ferramentas de aprendizado de máquina
 
+---
 
-Este repositório contém os arquivos e códigos utilizados na segunda aula de Big Data. 
-O objetivo principal é explorar técnicas de processamento de dados em larga escala, utilizando ferramentas como Python e bibliotecas específicas.
+## 📁 Estrutura do Projeto
 
+```bash
+📦 projeto-de-analise
+├── Trabalho_BigData.ipynb  # Notebook principal com análise
+├── requirements.txt # Bibliotecas utilizadas
+├── exemplo.py # Script de exemplo com DataFrame
+├── .gitignore # Ignora arquivos temporários
 
+```
+---
 
+---
 
-🚀 Tecnologias Utilizadas
+## ▶️ Como executar localmente
 
+1. Clone o repositório:
 
-Python 🐍
+```bash
+git clone https://github.com/Luanacsilva/NOVO-NOME.git
+cd NOVO-NOME
+```
+2. Crie um ambiente virtual (opcional, mas recomendado):
 
+```bash
+python3 -m venv venv
+source venv/bin/activate  # No Windows: venv\Scripts\activate
+```
+3. Instale as dependências:
 
-
-
-Pandas 📊
-
-
-
-
-
-Jupyter Notebook 📒
-
-
-
-
-
-📂 Estrutura do Projeto
-
-
-📁 projeto_aula02
-
-
-
-
- ├── 📜 aula02.py          # Código principal
-
-
- 
- ├── 📜 requirements.txt   # Dependências do projeto
-
-
-
- 
- ├── 📜 .gitignore         # Arquivos ignorados pelo Git
-
-
-
- 
- ├── 📁 .venv              # Ambiente virtual (não incluído no repositório)
-
-
-
-
-
-🔧 Como Executar
-
-
-Clone o repositório:
-git clone https://github.com/Luanacsilva/aula02_BigData.git
-
-
-
-
-Acesse a pasta do projeto:
-cd aula02_BigData
-
-
-
-Crie um ambiente virtual (opcional, mas recomendado):
-venv\Scripts\activate
-
-
-
-Ative o ambiente virtual:
-
-
-No Windows:
-venv\Scripts\activate
-
-
-
-No Linux/Mac:
-source venv/bin/activate
-
-
-
-
-Instale as dependências:
+```bash
 pip install -r requirements.txt
+```
+4. Execute o notebook:
+
+```bash
+jupyter notebook Trabalho_BigData.ipynb
+```
+
+---
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT.
 
 
-
-
-Execute o código:
-python aula02.py
-
-
-
-
-
-
-📝 Notas
-
-Caso encontre algum erro, verifique se todas as dependências estão instaladas corretamente.
-Para contribuições ou sugestões, fique à vontade para abrir uma issue ou um pull request.
-
-
-
-
-📜 Licença
-Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
-
-
-
-
-
-
-
-
-
-
+   
