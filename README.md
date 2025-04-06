@@ -1,6 +1,13 @@
 # 📊 Análise de Dados com Python — Projeto Acadêmico
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![stack: análise de dados](https://img.shields.io/badge/stack-análise%20de%20dados-blue)
+![language: Python](https://img.shields.io/badge/language-Python-3776AB)
+![lib: Pandas](https://img.shields.io/badge/lib-Pandas-black)
+![lib: Matplotlib](https://img.shields.io/badge/lib-Matplotlib-orange)
+![lib: Seaborn](https://img.shields.io/badge/lib-Seaborn-teal)
+![lib: Scikit-Learn](https://img.shields.io/badge/lib-Scikit--Learn-yellowgreen)
+![status: em progresso](https://img.shields.io/badge/status-em%20progresso-yellow)
+
 
 
 Este repositório contém um projeto de análise de dados utilizando Python, desenvolvido como parte da disciplina de Big Data.  
